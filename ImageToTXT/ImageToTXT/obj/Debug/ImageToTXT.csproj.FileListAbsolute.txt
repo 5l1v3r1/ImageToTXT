@@ -1,0 +1,6 @@
+D:\Code\ImageToTXT\ImageToTXT\obj\Debug\ImageToTXT.csprojResolveAssemblyReference.cache
+D:\Code\ImageToTXT\ImageToTXT\bin\Debug\ImageToTXT.exe.config
+D:\Code\ImageToTXT\ImageToTXT\bin\Debug\ImageToTXT.exe
+D:\Code\ImageToTXT\ImageToTXT\bin\Debug\ImageToTXT.pdb
+D:\Code\ImageToTXT\ImageToTXT\obj\Debug\ImageToTXT.exe
+D:\Code\ImageToTXT\ImageToTXT\obj\Debug\ImageToTXT.pdb
